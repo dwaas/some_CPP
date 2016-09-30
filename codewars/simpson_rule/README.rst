@@ -4,11 +4,11 @@ Description
 An integral
 ~~~~~~~~~~~
 
-..image:: integral.gif
+.. image:: integral.gif
 
 can be approximated by the so-called Simpson’s rule:
 
-..image:: simpson.gif
+.. image:: simpson.gif
 
 Here :math:`h = (b-a)/n`, n being an even integer and :math:`a <= b`. We want to try Simpson's rule with the function f:
 
